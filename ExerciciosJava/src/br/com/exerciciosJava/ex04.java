@@ -2,7 +2,7 @@ package br.com.exerciciosJava;
 
 /*Calcule e apresente a média entre os números 8, 9 e 7.*/
 
-public class ex04 {
+public class Ex04 {
 	public static void main(String[]args) {
 		int oito, nove, sete, media;
 		

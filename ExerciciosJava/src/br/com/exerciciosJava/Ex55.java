@@ -8,7 +8,7 @@ public class Ex55 {
 		
 		Scanner read = new Scanner (System.in);
 		
-		double altura, raio, custo, qtde_total, area_lateral, comp, area_base, area_cilindro, qtde_latas;
+		double altura, raio, qtde_total, area_lateral, comp, area_base, area_cilindro, qtde_latas;
 		
 		System.out.println("Informe o raio: ");
 		raio = read.nextDouble();
@@ -39,7 +39,7 @@ public class Ex55 {
 		
 		qtde_latas = qtde_total * 50;
 		
-		System.out.println("A quantidade total de latas é " + qtde_total); 
+		System.out.println("A quantidade total de latas é " + qtde_latas); 
 					
 		read.close();
 
