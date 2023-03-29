@@ -26,6 +26,8 @@ public class Ex40 {
 		
 		System.out.println("A: " + newA);
 		System.out.println("B: " + newB);
+		
+		read.close();
 
 	}
 
